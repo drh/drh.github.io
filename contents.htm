@@ -5,18 +5,51 @@
 <meta name="DATE" content="$Date$">
 <title>Contents</title>
 <link REV="made" TITLE="David R. Hanson">
-<link rel="stylesheet" type="text/css" href="style.css">
 <meta name="GENERATOR" content="Microsoft FrontPage 6.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/menuDropdown.css">
+<style>
+h2 { margin-top: 0px; margin-bottom: 0px; }
+h4 { margin-top: 6px; margin-bottom: 0px; }
+</style>
+<script type="text/javascript" src="js/menuDropdown.js"></script>
+<script type="text/javascript">
+<!--
+	window.onload = function() {
+		initializeMenu("pubsMenu", "pubsActuator");
+		initializeMenu("softwareMenu", "softwareActuator");
+		initializeMenu(null, "aboutActuator");
+		initializeMenu(null, "vitaActuator");
+		initializeMenu(null, "recentActuator");
+		initializeMenu(null, "keysActuator");
+    }
+//-->
+</script>
 </head>
 <base target="main">
 <body>
-<h3>David R. Hanson</h3>
-<h4><a href="about.htm">about</a> | <a href="vita.html">vita</a> | 
-<a href="recent.htm">recent papers</a> |
-<a href="vita.html#books">publications</a> | 
-<a href="keys.html">keys</a> | <a href="software.htm">software</a> |
-<a target="_blank" href="http://www.cs.princeton.edu/software/lcc">lcc</a> |
-<a target="_blank" href="http://www.cs.princeton.edu/software/cii">cii</a></h4>
+<h2>David R. Hanson</h2>
+<h4>
+<span><a href="about.htm" id="aboutActuator" class="actuator">about</a></span> |
+	<span><a href="vita.html" id="vitaActuator" class="actuator">vita</a></span> |
+	<span><a href="recent.htm" id="recentActuator" class="actuator">recent publications</a></span> |
+	<span><a href="vita.html#books" id="pubsActuator" class="actuator" accesskey="p">publications</a>
+		<span id="pubsMenu" class="menu">
+			[ <a href="vita.html#books" class="actuator">books</a>
+			<a href="vita.html#journals" class="actuator">journals</a>
+			<a href="vita.html#conf" class="actuator">conferences</a>
+			<a href="vita.html#misc" class="actuator">misc</a>
+			<a href="trs.html" class="actuator">reports</a> ]
+		</span></span> |
+	<span><a href="keys.html" id="keysActuator" class="actuator">keys</a></span> |
+	<span><a href="software.htm" id="softwareActuator" class="actuator" accesskey="s">software</a>
+		<span id="softwareMenu" class="menu">
+			[ <a href="http://www.cs.princeton.edu/software/lcc" target=_blank class="actuator">lcc</a>
+			<a href="http://www.cs.princeton.edu/software/cii" target=_blank class="actuator">cii</a> 
+			<a href="software.htm" class="actuator">other</a> ]
+		</span>
+	</span>
+</h4>
 </body>
 </html>

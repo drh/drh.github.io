@@ -1,0 +1,33 @@
+#mainMenu {
+  margin: 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+#menuList {
+  margin: 0px;
+  padding: 0px;
+}
+
+a.actuator {
+  background-color: transparent;
+  margin: 0px;
+  padding: 0px 0px;
+  text-decoration: none;
+}
+
+a.actuator:hover {
+  background-color: #009;
+  color: #EEE;
+}
+
+.menu {
+  position: absolute;
+  visibility: hidden;
+}
+
+.menu a {
+  background-color: transparent;
+  margin: 0px;
+  padding: 0px 0px;
+  text-decoration: none;
+}
