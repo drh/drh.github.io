@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="externaltab" version="1.0">
+	<attributes>
+		<attribute name="dataVersion" value="1"/>
+		<list name="entries">
+			<item>
+				<attribute name="folderType" value="8"/>
+				<attribute name="unfolded" value="yes"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520Addresses/"/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="mailto:drh@microsoft.com"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520Addresses/drh"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="mailto:toddpro@microsoft.com"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520Addresses/toddpro"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="folderType" value="7"/>
+				<attribute name="unfolded" value="yes"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/"/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/151640.151642"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-151640.151642"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/28569.315738"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-28569.315738"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/286936.286957"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-286936.286957"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/318593.318642"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-318593.318642"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/357094.357096"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-357094.357096"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/357133.357136"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-357133.357136"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/357133.357137"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-357133.357137"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/359488.359502"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-359488.359502"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/361179.361204"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-361179.361204"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/378795.378797"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-378795.378797"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/378795.378857"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-378795.378857"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/954269.954278"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-954269.954278"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/954654.954658"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-954654.954658"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://doi.acm.org/10.1145/988078.988082"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-988078.988082"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://portal.acm.org/citation.cfm"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-citation.cfm"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.acm.org/pubs/articles/proceedings/plan/325694/p108-lewis/p108-lewis.pdf"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/acm-p108-lewis.pdf"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.adobe.com/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/adobe"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://link.aps.org/abstract/PRA/v9/p466"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/aps-p466"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.arizona.edu/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/arizona"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.arizona.edu/%257eralph/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/arizona-%257eralph"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.arizona.edu/icon/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/arizona-icon"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.arizona.edu/icon/jcon/impl.pdf"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/arizona-impl.pdf"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.research.att.com/info/mff/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/att-mff"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.aw.com/cseng/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/aw-cseng"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.berkeley.edu/%257ewkahan/JAVAhurt.pdf"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/berkeley-JAVAhurt.pdf"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.research.compaq.com/SRC/m3defn/html/m3.html"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/compaq-m3.html"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.drhanson.net/keys.html"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/drhanson-keys.html"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.ecma.ch/ecma1/STAND/ecma-334.htm"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/ecma-ecma-334.htm"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.ecma.ch/ecma1/STAND/ecma-335.htm"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/ecma-ecma-335.htm"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.eecs.harvard.edu/%257enr/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/harvard-%257enr"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.eecs.harvard.edu/%257enr/ldb/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/harvard-ldb"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.idaccr.org"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/idaccr"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://ieeexplore.ieee.org/iel5/3/22991/01069928.pdf"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/ieee-01069928.pdf"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.research.microsoft.com"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.research.microsoft.com/%257ecwfraser/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-%257ecwfraser"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.research.microsoft.com/%257edrh/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-%257edrh"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.research.microsoft.com/%257etoddpro/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-%257etoddpro"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://research.microsoft.com/copyright/accept.asp"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-accept.asp"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.research.microsoft.com/%257edrh/pubs/cdb.pdf"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-cdb.pdf"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.research.microsoft.com/downloads/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-downloads"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="ftp://ftp.research.microsoft.com/Users/drh/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-drh"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="ftp://ftp.research.microsoft.com/Users/drh/dynamic.cpp"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-dynamic.cpp"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="ftp://ftp.research.microsoft.com/Users/drh/dynamic.h"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-dynamic.h"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.research.microsoft.com/%257edrh/pubs/interface4.pdf"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-interface4.pdf"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.research.microsoft.com/pls/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-pls"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="ftp://ftp.research.microsoft.com/pub/tr/tr-2000-54.ps"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-tr-2000-54.ps"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.research.microsoft.com/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft1"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/%257eappel/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-%257eappel"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/%257ejlk/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-%257ejlk"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/lcc/asdl.html"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-asdl.html"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/lcc/pkg/src/bind.c"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-bind.c"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/lcc/cdb/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-cdb"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/cii"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-cii"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/cii/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-cii1"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/lcc/pkg/src/config.h"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-config.h"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/%257ejlk/deet/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-deet"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="ftp://ftp.cs.princeton.edu/pub/people/drh/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-drh"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="ftp://ftp.cs.princeton.edu/pub/packages/duel/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-duel"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/iburg/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-iburg"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/lcc/pkg/doc/install.html"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-install.html"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/lcc"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-lcc"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/lcc/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-lcc1"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/lcc/doc/linux.html"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-linux.html"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/lcc/doc/nci@pldi98.pdf"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-nci@pldi98.pdf"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.princeton.edu/software/lcc/pkg/etc/ops.c"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton-ops.c"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.princeton.edu/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/princeton1"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.purdue.edu/people/jtk/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/purdue-jtk"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.utah.edu/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/utah"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.uu.nl/people/visser/ftp/P9707.ps"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/uu-P9707.ps"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.uu.nl/people/visser/ftp/Vis97.ps.gz"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/uu-Vis97.ps.gz"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="ftp://parcftp.xerox.com/pub/ellis/gc/gc.ps"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/xerox-gc.ps"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.cs.yale.edu/"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/yale"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+		</list>
+	</attributes>
+</sitesettings>
