@@ -11,6 +11,11 @@
 				<attribute name="url" value="siteEntry://externals/Scanned%2520Addresses/"/>
 			</item>
 			<item>
+				<attribute name="externalUrl" value="mailto:drh@microsoft.com"/>
+				<attribute name="url" value="siteEntry://externals/Scanned%2520Addresses/drh"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
 				<attribute name="externalUrl" value="mailto:toddpro@microsoft.com"/>
 				<attribute name="url" value="siteEntry://externals/Scanned%2520Addresses/toddpro"/>
 				<attribute name="urlParams" value=""/>
@@ -191,7 +196,7 @@
 				<attribute name="urlParams" value=""/>
 			</item>
 			<item>
-				<attribute name="externalUrl" value="http://www.research.microsoft.com/%257etoddpro/"/>
+				<attribute name="externalUrl" value="http://proebsting.webhop.net"/>
 				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-%257etoddpro"/>
 				<attribute name="urlParams" value=""/>
 			</item>
@@ -381,7 +386,7 @@
 				<attribute name="urlParams" value=""/>
 			</item>
 			<item>
-				<attribute name="externalUrl" value="http://www.drhanson.net/work/"/>
+				<attribute name="externalUrl" value="http://drh.home.dyndns.org"/>
 				<attribute name="url" value="siteEntry://externals/work"/>
 				<attribute name="urlParams" value=""/>
 			</item>
