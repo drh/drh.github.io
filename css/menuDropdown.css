@@ -20,10 +20,7 @@ a.actuator:hover {
   color: #EEE;
 }
 
-.menu {
-  position: absolute;
-  visibility: hidden;
-}
+.menu  { line-height: 1.5ex; visibility: hidden; position: absolute }
 
 .menu a {
   background-color: transparent;
