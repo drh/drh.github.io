@@ -376,6 +376,11 @@
 				<attribute name="urlParams" value=""/>
 			</item>
 			<item>
+				<attribute name="externalUrl" value="http://www.drhanson.net"/>
+				<attribute name="url" value="siteEntry://externals/home"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
 				<attribute name="externalUrl" value="http://www.drhanson.net/work/"/>
 				<attribute name="url" value="siteEntry://externals/work"/>
 				<attribute name="urlParams" value=""/>
