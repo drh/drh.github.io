@@ -32,20 +32,18 @@ function initializeMenu(menuId, actuatorId) {
     }
   
     actuator.onclick = function() {
-        if (currentMenu == null) {
+        if (currentMenu == null)
             this.showMenu();
-        }
         else {
             currentMenu.style.visibility = "hidden";
             currentMenu = null;
         }
-
         return false;
     }
 
     actuator.showMenu = function() {
         menu.style.left = this.offsetLeft + "px";
-        menu.style.top = this.offsetTop + this.offsetHeight + "px";
+        menu.style.top = this.offsetTop + this.offsetHeight + 10 + "px";
         menu.style.visibility = "visible";
         currentMenu = menu;
     }
