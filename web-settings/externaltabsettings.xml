@@ -191,11 +191,6 @@
 				<attribute name="urlParams" value=""/>
 			</item>
 			<item>
-				<attribute name="externalUrl" value="http://www.research.microsoft.com/%257ecwfraser/"/>
-				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-%257ecwfraser"/>
-				<attribute name="urlParams" value=""/>
-			</item>
-			<item>
 				<attribute name="externalUrl" value="http://www.research.microsoft.com/%257etoddpro/"/>
 				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-%257etoddpro"/>
 				<attribute name="urlParams" value=""/>
@@ -368,6 +363,11 @@
 			<item>
 				<attribute name="externalUrl" value="http://www.cs.yale.edu/"/>
 				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/yale"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://cwfraser.webhop.net"/>
+				<attribute name="url" value="siteEntry://externals/cwf"/>
 				<attribute name="urlParams" value=""/>
 			</item>
 			<item>
