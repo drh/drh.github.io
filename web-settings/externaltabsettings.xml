@@ -201,11 +201,6 @@
 				<attribute name="urlParams" value=""/>
 			</item>
 			<item>
-				<attribute name="externalUrl" value="http://www.research.microsoft.com/%257edrh/"/>
-				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-%257edrh"/>
-				<attribute name="urlParams" value=""/>
-			</item>
-			<item>
 				<attribute name="externalUrl" value="http://www.research.microsoft.com/%257etoddpro/"/>
 				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-%257etoddpro"/>
 				<attribute name="urlParams" value=""/>
@@ -226,11 +221,6 @@
 				<attribute name="urlParams" value=""/>
 			</item>
 			<item>
-				<attribute name="externalUrl" value="ftp://ftp.research.microsoft.com/Users/drh/"/>
-				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-drh"/>
-				<attribute name="urlParams" value=""/>
-			</item>
-			<item>
 				<attribute name="externalUrl" value="ftp://ftp.research.microsoft.com/Users/drh/dynamic.cpp"/>
 				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-dynamic.cpp"/>
 				<attribute name="urlParams" value=""/>
@@ -243,11 +233,6 @@
 			<item>
 				<attribute name="externalUrl" value="http://www.research.microsoft.com/%257edrh/pubs/interface4.pdf"/>
 				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-interface4.pdf"/>
-				<attribute name="urlParams" value=""/>
-			</item>
-			<item>
-				<attribute name="externalUrl" value="http://www.research.microsoft.com/pls/"/>
-				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/microsoft-pls"/>
 				<attribute name="urlParams" value=""/>
 			</item>
 			<item>
@@ -388,6 +373,16 @@
 			<item>
 				<attribute name="externalUrl" value="http://www.cs.yale.edu/"/>
 				<attribute name="url" value="siteEntry://externals/Scanned%2520URLs/yale"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.drhanson.net/Work/"/>
+				<attribute name="url" value="siteEntry://externals/Work"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://google.com/"/>
+				<attribute name="url" value="siteEntry://externals/google.com"/>
 				<attribute name="urlParams" value=""/>
 			</item>
 		</list>
