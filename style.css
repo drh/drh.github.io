@@ -5,3 +5,5 @@ div.hanging p  { margin-top: 0; margin-bottom: 8 }
 div.bibitems p { margin-bottom: 0 }
 body           { font-family: Times New Roman; font-size: 10pt; text-align: left }
 table          { font-size: 10pt }
+
+/* $Id: style.css,v 1.2 2004/05/28 23:57:59 drh Exp $ */
