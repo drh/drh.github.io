@@ -3,19 +3,19 @@
 \usepackage{times}
 \usepackage{fullpage}
 \setcounter{secnumdepth}{0}
-\newenvironment{para}{\setlength{\parskip}{1ex}\setlength{\parindent}{0pt}}{}
+\newenvironment{para}{\setlength{\parskip}{1ex}\setlength{\parindent}{0pt}%
+\clubpenalty=10000 \widowpenalty=10000}{\par}
 
 \begin{document}
 
 \noindent
 \begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}l@{}}
-David R. Hanson				& home:\\
-Department of Computer Science		& 15 Old Orchard Lane\\
-Princeton University			& Princeton, NJ 08540\\
-35 Olden Street				& 609~683--8167\\
-Princeton, NJ 08544\\
-609~258--5598 \textsc{fax}: 609~258--1771 \texttt{drh@cs.princeton.edu}\\
-\textsc{www}: \texttt{http://www.cs.princeton.edu/\char`~drh/}\\
+David R. Hanson			& home:\\
+Microsoft Research		& 13200 Old Redmond Rd., \#103--450\\
+1 Microsoft Way			& Redmond, WA 98052\\
+Redmond, WA 98052			&\\
+206~703--2652 \textsc{fax}: 206~936-0502 \texttt{drh@microsoft.com}\\
+\texttt{http://www.research.microsoft.com/\char`~drh/}\\
 \end{tabular*}
 
 \subsection{Education}
@@ -29,14 +29,16 @@ PhD (computer science) 1976, University of Arizona
 \subsection{Experience}
 
 \begin{para}
-Princeton University. Professor of Computer Science, since 1986;
+Microsoft Research. Senior Researcher, since 1997.
+
+Princeton University. Professor of Computer Science, 1986--97;
 Visiting Associate Professor, 1984--85.
 
 Institute for Defense Analyses, Center for Communications Research.
 Research Staff Member, 1984--85, 1995--96, summers 1980--83, 1989, 1994;
 FOCUS Advisory Committee, 1993--96.
 
-AT\&T Bell Laboratories. Consultant, since 1988.
+AT\&T Bell Laboratories. Consultant, 1988--96.
 
 Digital Equipment, Systems Research Center.
 Visiting Scientist, summers 1992, 1993.
@@ -313,8 +315,8 @@ Garbage Collection in Distributed \textsl{EZ},
 (with A.~E.\ Campos).
 
 A Simple and Extensible Graphical Debugger,
-{\it Proceedings of the Winter USENIX Technical Conference},
-Anaheim, CA, Jan.\ 1997, to appear
+{\it Proceedings of the Winter USENIX Technical Conference}, 173--184,
+Anaheim, CA, Jan.\ 1997
 (with J.~L.\ Korn).
 \end{para}
 
@@ -371,7 +373,7 @@ Compile C Faster on Linux,
 \mbox{}
 \vfill
 \begin{flushleft}
-{\catcode`\$=12 \footnotesize $Id: vita.html,v 1.14 1996/11/10 17:10:27 drh Exp $}
+{\catcode`\$=12 \footnotesize $Id: vita.html,v 1.15 1997/02/12 20:02:54 drh Exp $}
 \end{flushleft}
 
 \end{document}
