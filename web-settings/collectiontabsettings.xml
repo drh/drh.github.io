@@ -13,6 +13,481 @@
 				<attribute name="timeRun" value="2040-02-05%2022:28:16"/>
 				<attribute name="unfolded" value="no"/>
 			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/CSharpCompiler-spe.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/CSharpCompiler-spe.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/CSharpCompiler.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/CSharpCompiler.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/PLDI2001.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/PLDI2001.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/S4smperf.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/S4smperf.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/Snobol4sm.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/Snobol4sm.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/Zeeman1.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/Zeeman1.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/Zeeman2.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/Zeeman2.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/about.htm"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="about.htm"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/alloc-errata.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/alloc-errata.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/asdl-spe.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/asdl-spe.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/asdl.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/asdl.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/backtracking-acm.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/backtracking-acm.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/backtracking.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/backtracking.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/bigd.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/bigd.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/bio.htm"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="bio.htm"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/blockstructure.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/blockstructure.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/boundarytag1.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/boundarytag.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/cdb.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/cdb.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/cdb3-spe.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/cdb3-spe.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/cdb3.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/cdb3.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/cdbtalk.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/cdbtalk.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/common-cacm.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/common-cacm.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/common.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/common.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/common.ps"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/common.ps"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/communication.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/communication.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/compact.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/compact.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/contents.htm"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="contents.htm"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dave13.jpg"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="images/dave13.jpg"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dave13_small.jpg"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="images/dave13_small.jpg"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dave14.jpg"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="images/dave14.jpg"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/davedresser1.jpg"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="images/davedresser.jpg"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/daveskiing1.jpg"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="images/daveskiing.jpg"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/deet.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/deet.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/deettalk.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/deettalk.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/distributedez.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/distributedez.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dot_black.gif"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="images/dot_black.gif"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dot_blue.gif"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="images/dot_blue.gif"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dot_clear.gif"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="images/dot_clear.gif"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/duel.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/duel.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dynamic.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/dynamic.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dynamictalk.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/dynamictalk.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/errata.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/errata.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/eventassociations.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/eventassociations.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/ez-popl12.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/ez-popl12.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/ez.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/ez.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/ezprocesses.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/ezprocesses.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/fastalloc.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/fastalloc.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/filters.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/filters.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/fortran-strings.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/fortran-strings.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/gc.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/gc.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/iburg.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/iburg.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/icon.html"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/icon.html"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/icongc-spe.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/icongc-spe.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/icongc.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/icongc.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/iconoverview.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/iconoverview.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/iconsm.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/iconsm.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/index.htm"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="index.htm"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/interface-spe.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/interface-spe.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/interface.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/interface.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/interface4.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/interface4.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/link-errata.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/link-errata.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/link.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/link.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/menuDropdown.css"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="css/menuDropdown.css"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/menuDropdown.js"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="js/menuDropdown.js"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/msil-spe.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/msil-spe.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/msil.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/msil.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/msr-tr-2002-112.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/msr-tr-2002-112.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/msr-tr-2003-32.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/msr-tr-2003-32.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/msr-tr-98-50.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/msr-tr-98-50.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/msr-tr-99-4.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/msr-tr-99-4.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/overview.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/overview.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/patterns.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/patterns.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/pds-spe.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/pds-spe.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/pds.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/pds.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/photos.htm"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="photos.htm"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/pios.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/pios.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/popl3.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/popl3.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/ratsno.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/ratsno.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/recent.htm"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="recent.htm"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/retargetable.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/retargetable.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/simpleopt.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/simpleopt.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/sl5.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/sl5.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/sl5overview.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/sl5overview.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/software.htm"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="software.htm"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/spills-spe.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/spills-spe.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/spills.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/spills.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/spl.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/spl.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/strings.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/strings.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/style.css"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="css/style.css"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/tr-162-88.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/tr-162-88.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/tr-2000-109.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/tr-2000-109.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/trs.html"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="trs.html"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/variableassociations.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/variableassociations.pdf"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/vita.html"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="vita.html"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/published-files/ypl.pdf"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="pubs/ypl.pdf"/>
+			</item>
 		</list>
 	</attributes>
 </sitesettings>
