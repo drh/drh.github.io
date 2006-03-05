@@ -1,103 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
-<!--Adobe GoLive settings file-->
-<sitesettings section="collectiontab" version="1.0">
-	<attributes>
-		<attribute name="dataVersion" value="1"/>
-		<list name="entries">
-			<item>
-				<attribute name="collectionType" value="3"/>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/"/>
-				<attribute name="query" value=""/>
-				<attribute name="queryName" value=""/>
-				<attribute name="timeRun" value="2040-02-05%2022:28:16"/>
-				<attribute name="unfolded" value="no"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/about.htm"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="about.htm"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/bio.htm"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="bio.htm"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/contents.htm"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="contents.htm"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dave13.jpg"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="images/dave13.jpg"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dave13_small.jpg"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="images/dave13_small.jpg"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dave14.jpg"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="images/dave14.jpg"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/davedresser1.jpg"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="images/davedresser.jpg"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/daveskiing1.jpg"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="images/daveskiing.jpg"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/index.htm"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="index.htm"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/menuDropdown.css"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="css/menuDropdown.css"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/menuDropdown.js"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="js/menuDropdown.js"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/photos.htm"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="photos.htm"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/recent.htm"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="recent.htm"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/software.htm"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="software.htm"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/style.css"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="css/style.css"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/trs.html"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="trs.html"/>
-			</item>
-			<item>
-				<attribute name="collectionUrl" value="siteEntry://collections/published-files/vita.html"/>
-				<attribute name="isRelative" value="yes"/>
-				<attribute name="url" value="vita.html"/>
-			</item>
-		</list>
-	</attributes>
-</sitesettings>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE sitesettings SYSTEM "sitesettings.dtd"><!--Adobe GoLive settings file--><sitesettings section="collectiontab" version="1.0">	<attributes>		<attribute name="dataVersion" value="1"/>		<list name="entries">			<item>				<attribute name="collectionType" value="0"/>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/"/>				<attribute name="unfolded" value="no"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/about.htm"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="about.htm"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/bio.htm"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="bio.htm"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/contents.htm"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="contents.htm"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dave13.jpg"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="images/dave13.jpg"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dave13_small.jpg"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="images/dave13_small.jpg"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/dave14.jpg"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="images/dave14.jpg"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/davedresser1.jpg"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="images/davedresser.jpg"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/daveskiing1.jpg"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="images/daveskiing.jpg"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/index.htm"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="index.htm"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/photos.htm"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="photos.htm"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/recent.htm"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="recent.htm"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/software.htm"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="software.htm"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/style.css"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="css/style.css"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/trs.html"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="trs.html"/>			</item>			<item>				<attribute name="collectionUrl" value="siteEntry://collections/published-files/vita.html"/>				<attribute name="isRelative" value="yes"/>				<attribute name="url" value="vita.html"/>			</item>		</list>	</attributes></sitesettings>
