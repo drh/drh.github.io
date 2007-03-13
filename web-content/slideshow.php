@@ -8,7 +8,7 @@ $title = $_GET['title'] ? $_GET['title'] : "";
 <title><?= $title ?></title>
 <style>
 body { margin: 0 0 0 0; padding: 0 0 0 0; }
-object { width: 600px; height: 492px; }
+object { width: 100%; height: 100%; }
 </style>
 </head>
 <body>
