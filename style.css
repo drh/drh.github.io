@@ -18,3 +18,8 @@ a:link, a:visited { color: #0066CC; }
 p.first, .first { margin-top: 0px }
 dl { margin-bottom: 0; }
 div.reports p { margin: 0; }
+@media only screen and (max-width: 1080px) {
+        body { font-size: large; }
+        .top-menu { font-size: medium; }
+        }
+}
