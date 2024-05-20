@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang=en>
 <head>
 <meta charset="UTF-8">
 <!-- TemplateBeginEditable name="doctitle" -->
@@ -16,7 +16,6 @@
 		<a href="vita.html">Vita</a> &middot;
 		<a href="publications.html">Publications</a> &middot;
 		<a href="software.html">Software</a></p>
-	</div>
 <!-- TemplateBeginEditable name="body" -->
 <!-- TemplateEndEditable -->
 </body>
