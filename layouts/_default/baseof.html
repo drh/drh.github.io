@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <title>{{ block "title" . }}{{ end }}</title>
@@ -9,7 +9,7 @@
     <header>
     <h2>David R. Hanson</h2>
     <nav class="top-menu">
-        <p close="top-menu">
+        <p>
         <a href="/">Home</a>
         {{ range (site.GetPage "/_index.html").Pages.ByTitle }}
             {{- if ne .Title "Bio" -}}
