@@ -9,19 +9,14 @@
     <header>
     <h2>David R. Hanson</h2>
     <nav class="top-menu">
-        <p>
-        <a href="/">Home</a>
+        <p><a href="/">Home</a>
         {{ range (site.GetPage "/_index.html").Pages.ByTitle }}
-            {{- if ne .Title "Bio" -}}
-                &middot; <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            {{ end }}
-        {{- end -}}
-        </p>
+            &middot; <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{- end -}}</p>
     </nav>
     </header>
     <main>
     {{ block "main" . }}
-      <!-- The part of the page that begins to differ between templates -->
     {{ end -}}
     </main>
   </body>
