@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ .Content }}
-<p style="font-size:smaller">{{ .Page.Lastmod | time.Format "1/2/2006" }}</p>
+<span style="font-size:smaller">{{ .Page.Lastmod | time.Format "1/2/2006" }}</span></p>
 {{ end }}
 {{ define "title" }}
 {{- .Title -}}
