@@ -4,15 +4,14 @@
     <meta charset="utf-8">
     <title>{{ block "title" . }}{{ end }}</title>
     <link href="style.css" rel="stylesheet" type="text/css" media="all">
-    {{ with .Param "base" }}<base href="{{ . }}">{{ end }}
   </head>
   <body>
     <header>
     <h2>David R. Hanson</h2>
     <nav class="top-menu">
-        <p><a href="{{ (site.GetPage "_index.html").Permalink }}">Home</a>
+        <p><a href="{{ (site.GetPage "_index.html").RelPermalink }}">Home</a>
         {{ range (site.GetPage "/_index.html").Pages.ByTitle }}
-            &middot; <a href="{{ .Permalink }}">{{ .Title }}</a>
+            &middot; <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{- end -}}</p>
     </nav>
     </header>
