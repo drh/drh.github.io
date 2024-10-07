@@ -12,6 +12,11 @@ a:link, a:visited { color: #0066CC; }
 p.first, .first { margin-top: 0px }
 dl { margin-bottom: 0; }
 div.reports p { margin: 0; }
-@media (min-width: 1280px) {
-    body { width: 65vw; margin-left: auto; margin-right: auto; }
+/* Small and medium devices (landscape tablets, 992px and down) */
+@media only screen and (max-width: 992px) {
+    body { width: 100vw; }
+}
+/* Large tablets that are <= 1640px wide and in portrait orientation, e.g., iPad Air 5 */
+@media screen and (max-width: 1640px) and (orientation: portrait) {
+    body { width: 95vw; }
 }

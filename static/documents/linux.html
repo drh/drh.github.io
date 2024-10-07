@@ -1,13 +1,15 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<!-- saved from url=(0036)https://cwf.github.io/pro/linux.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		
-		<link title="David R. Hanson" href="https://drh.github.io/" rev="made">
-		<link href="./linux_files/style.css" rel="stylesheet" type="text/css" media="all">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<link title="David R. Hanson" href="https://drh.github.io" rev="made">
+		<link href="../style.css" rel="stylesheet" type="text/css" media="all">
 		<title>Compile C Faster on Linux</title>
 	</head>
 
-	<body data-new-gr-c-s-check-loaded="14.1199.0" data-gr-ext-installed="">
+	<body>
 		<h1>Compile C Faster on Linux</h1>
 		<h2>Christopher W. Fraser (Microsoft Research)<br>
 			David R. Hanson (Princeton University)</h2>
@@ -33,21 +35,21 @@
 		<p>annotate two lines from the <tt>lcc</tt> test suite's implementation of a program that finds all ways to place eight queens on a chessboard such that none of them attacks any other. The numbers in angle brackets report how many times the following code executed, which can differ within one line. This profiler would have been a big project without <tt>lcc</tt>, but it was modest one with <tt>lcc</tt>. Other adaptations of <tt>lcc</tt> include interpreters (<a href="http://www.cit.gu.edu.au/%7esosic/papers/sigplan92.ps.Z">http://www.cit.gu.edu.au/~sosic/papers/sigplan92.ps.Z</a>), code generators for multiple targets (<a href="ftp://ftp.cs.princeton.edu/pub/packages/lcc/contrib">ftp://ftp.cs.princeton.edu/pub/lcc/contrib/</a>), a C++ compiler, programmable debuggers that can debug across a network (<a href="http://www.eecs.harvard.edu/%7enr/ldb/">http://www.eecs.harvard.edu/~nr/ldb/</a>), and a retargetable optimizing linker. A group at Stanford University has adapted <tt>lcc</tt> for use with a global optimizer (<a href="http://suif.stanford.edu/suif/suif.html">http://suif.stanford.edu/suif/suif.html</a>). At least some of these efforts chose <tt>lcc</tt> over <tt>gcc</tt> because <tt>lcc</tt>'s compactness made it seem easier to comprehend and change. Many of these projects were begun before the <tt>lcc</tt> book was done, so common sense predicts even more adaptations now that extensive documentation is available.</p>
 		<h3>Literate Programming</h3>
 		<p>Most developers will use pre-built executables for <tt>lcc</tt> and never study the source code. The Linux community, however, expects source, and <tt>lcc</tt> exceeds this expectation with an annotated version of most of its code, in the form of a book. <tt>lcc</tt>'s annotations, like its small size, are designed to help developers modify <tt>lcc</tt> when they want to.</p>
-		<p><tt>lcc</tt> is written as what Knuth has termed a "literate program," which interleaves the source code with prose explanations. Two programs process this input. One extracts conventional C source code, which can be compiled with any C compiler. The other program uses the prose too and emits the typescript for the <tt>lcc</tt> book. We generate the book and the compiler from a single source because it's too easy for multiple sources to get out of sync with one another.</p>
+		<p><tt>lcc</tt> is written as what Knuth has termed a &quot;literate program,&quot; which interleaves the source code with prose explanations. Two programs process this input. One extracts conventional C source code, which can be compiled with any C compiler. The other program uses the prose too and emits the typescript for the <tt>lcc</tt> book. We generate the book and the compiler from a single source because it's too easy for multiple sources to get out of sync with one another.</p>
 		<p>A brief fragment of the chapter on the X86 code generator demonstrates literate programming:</p>
 		<hr>
 		<p>Static locals get a generated name to avoid other static locals of the same name:</p>
 		<pre>&lt;X86 defsymbol&gt;=
 if (p-&gt;scope &gt;= LOCAL &amp;&amp; p-&gt;sclass == STATIC)
-   p-&gt;x.name = stringf("L%d", genlabel(1));
+   p-&gt;x.name = stringf(&quot;L%d&quot;, genlabel(1));
 </pre>
 		<p>Generated symbols already have a unique numeric name. Defsymbol simply prefixes a letter to make a valid assembler identifier:</p>
 		<pre>&lt;X86 defsymbol&gt;+=
 else if (p-&gt;generated)
-   p-&gt;x.name = stringf("L%s",p-&gt;name);
+   p-&gt;x.name = stringf(&quot;L%s&quot;,p-&gt;name);
 </pre>
 		<hr>
-		<p>Each of the two displays above consists of a "fragment label" in angle brackets and a "fragment" that's just plain code. The fragment label names a piece of the C program that's being described, here the version of the routine <code>defsymbol</code> for the X86. The "+=" in the second fragment says that the second fragment is appended to the first.</p>
+		<p>Each of the two displays above consists of a &quot;fragment label&quot; in angle brackets and a &quot;fragment&quot; that's just plain code. The fragment label names a piece of the C program that's being described, here the version of the routine <code>defsymbol</code> for the X86. The &quot;+=&quot; in the second fragment says that the second fragment is appended to the first.</p>
 		<p>This example is necessarily tiny, but it shows how literate programming allows one to build up a complex program a bit at a time, explaining it on the way. The <tt>lcc</tt> distribution includes conventional C code that can be modified as usual, but when some explanation would help, one can easily get it from the annotated code in the book.</p>
 		<p>Not shown in this sample are page numbers in each fragment that point to adjoining fragments, and miniature indices in the page margin that point to the page that defines each identifier that's being used. Many readers have identified the mini-indices as especially helpful.</p>
 		<h3>Availability</h3>
@@ -55,29 +57,8 @@ else if (p-&gt;generated)
 		<p>Our book about <tt>lcc</tt>, <i>A Retargetable C Compiler: Design and Implementation</i>, (ISBN 0-8053-1670-1) is available from Addison Wesley at 800-447-2226 and from other sources listed on <tt>lcc</tt>'s home page (<a href="http://www.cs.princeton.edu/software/lcc/">http://www.cs.princeton.edu/software/lcc/</a>).</p>
 		<p><tt>lcc</tt> is free for non-commercial use. The <tt>lcc</tt> book amounts to a single-user license for <tt>lcc</tt>, so some have arranged commercial use by simply including a copy of the book with their product (and charging for it); the publisher offers substantial discounts. Other arrangements are possible.</p>
 		<h3>Authors</h3>
-		<p>Chris Fraser has been writing compilers since 1974. He earned a Ph.D. in computer science at Yale in 1977 and did computing research at Bell Laboratories in Murray Hill, New Jersey. He is now with Microsoft Research. <a href="https://cwf.github.io/">Web</a>.</p>
-		<p>Dave Hanson was Professor of Computer Science at Princeton University. His research interests include programming language design and implementation, software engineering, and programming environments. He is now with Microsoft Research. <a href="https://drh.github.io/">Web</a>.</p>
-	
+		<p>Chris Fraser has been writing compilers since 1974. He earned a Ph.D. in computer science at Yale in 1977 and did computing research at Bell Laboratories in Murray Hill, New Jersey. He is now with Microsoft Research. <a href="https://cwf.github.io">Web</a>.</p>
+		<p>Dave Hanson was Professor of Computer Science at Princeton University. His research interests include programming language design and implementation, software engineering, and programming environments. He is now with Microsoft Research. <a href="https://drh.github.io">Web</a>.</p>
+	</body>
 
-
-</body><grammarly-desktop-integration data-grammarly-shadow-root="true"><template shadowrootmode="open"><style>
-      div.grammarly-desktop-integration {
-        position: absolute;
-        width: 1px;
-        height: 1px;
-        padding: 0;
-        margin: -1px;
-        overflow: hidden;
-        clip: rect(0, 0, 0, 0);
-        white-space: nowrap;
-        border: 0;
-        -moz-user-select: none;
-        -webkit-user-select: none;
-        -ms-user-select:none;
-        user-select:none;
-      }
-
-      div.grammarly-desktop-integration:before {
-        content: attr(data-content);
-      }
-    </style><div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration" data-content="{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integration></html>
+</html>
