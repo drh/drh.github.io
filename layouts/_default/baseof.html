@@ -9,10 +9,10 @@
     <header>
     <h2>David R. Hanson</h2>
     <nav class="top-menu">
-        <p><a href="{{ (site.GetPage "_index.html").RelPermalink }}">Home</a>
+        <a href="{{ (site.GetPage "_index.html").RelPermalink }}">Home</a>
         {{ range (site.GetPage "/_index.html").Pages.ByTitle }}
             &middot; <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        {{- end -}}</p>
+        {{- end -}}
     </nav>
     </header>
     <main>

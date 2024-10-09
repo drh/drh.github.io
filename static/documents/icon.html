@@ -60,9 +60,9 @@ end
 		<p>This program prints the <tt>k</tt> most commonly used words. Line 2 sets <tt>k</tt> to the command-line argument, if there is one and it is a legal integer, or to <tt>10</tt>. Line 3 assigns an associative table to <tt>words</tt>; the argument to <tt>table</tt> specifies each entry's initial value. This table accumulates the frequency counts. Line 4 reads in lines and uses <tt>getword</tt> to generate the words in each line, which index <tt>words</tt>. The operator <tt>+:=</tt> increments its left operand. <tt>sort(words,</tt> <tt>4)</tt> in line 5 returns the contents of the table <tt>words</tt> in a list sorted in increasing order by the frequency counts. Indicies and their count values alternate in this list, which is assigned to <tt>words</tt>. Line 6 prints the counts and words for the <tt>k</tt> most frequently used words by <tt>pull</tt>ing them off the end of the list, which also shortens the list. <tt>pull</tt> fails when the list is empty, in case there are not <tt>k</tt> words.</p>
 		<p>This example typifies Icon programs. Most are much shorter than equivalent programs in traditional languages, for example, compare this 13-line Icon program with an equivalent program written in the C programming language (<i>Comm. ACM</i> 30, 594-599, 1987); <a href="common.ps">PostScript</a> and <a href="common.pdf">Acrobat PDF</a> versions are available.</p>
 		<hr>
-		<address>-<a href="https://drh.github.io">David R. Hanson</a>, <a href="http://www.cs.princeton.edu/">Department of Computer Science</a>, <a href="http://www.princeton.edu/">Princeton University</a><br>
+		<address>-<a href="https://drh.github.io">David R. Hanson</a>, Department of Computer Science, Princeton University<br>
 			Wed Jul 26 09:02:01 EDT 1995<br>
-			drh @ drhanson <img src="../images/dot_black.gif" height="2" width="2" border="0"> net</address>
+			drh @ drhanson &middot; net</address>
 	</body>
 
 </html>

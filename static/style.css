@@ -1,0 +1,19 @@
+@import url("https://unpkg.com/bamboo.css");
+
+html { overflow-y: scroll; }
+h2 { margin-bottom: .5rex; }
+h3, h4 { margin-top: 1rex; margin-bottom: 0; }
+p { margin-top: 1.5rex; margin-bottom: 1.5rex; }
+.top-menu { font-size: smaller; }
+#books { color: var(--b-txt); }
+#reports p { margin-top: 0; margin-bottom: 0; }
+#software { margin-top: 1rex; display: grid; grid-template-columns: auto auto; column-gap: 1rem; }
+
+/* Small and medium devices (landscape tablets, 992px and down) */
+@media only screen and (max-width: 992px) {
+    body { width: 100vw; margin-left: 3px; margin-right: 3px; }
+}
+/* Large tablets that are <= 1640px wide and in portrait orientation, e.g., iPad Air 5 */
+@media screen and (max-width: 1640px) and (orientation: portrait) {
+    body { width: 95vw; }
+}
