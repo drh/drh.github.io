@@ -6,7 +6,7 @@ h3, h4 { margin-top: 1rex; margin-bottom: 0; }
 p { margin-top: 1.5rex; margin-bottom: 1.5rex; }
 .top-menu { font-size: smaller; }
 #books { color: var(--b-txt); }
-#reports p { margin-top: 0; margin-bottom: 0; }
+#reports > p { margin-top: 0; margin-bottom: 0; }
 #software { margin-top: 1rex; display: grid; grid-template-columns: auto auto; column-gap: 1rem; }
 
 /* Small and medium devices (landscape tablets, 992px and down) */

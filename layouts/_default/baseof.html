@@ -3,14 +3,16 @@
   <head>
     <meta charset="utf-8">
     <title>{{ block "title" . }}{{ end }}</title>
-    <link href="style.css" rel="stylesheet" type="text/css" media="all">
+    {{ with resources.Get "style.css" -}}
+    <link href="{{ .RelPermalink }}" rel="stylesheet" type="text/css" media="all">
+    {{ end -}}
   </head>
   <body>
     <header>
     <h2>David R. Hanson</h2>
     <nav class="top-menu">
         <a href="{{ (site.GetPage "_index.html").RelPermalink }}">Home</a>
-        {{ range (site.GetPage "/_index.html").Pages.ByTitle }}
+        {{- range (site.GetPage "/_index.html").Pages.ByTitle }}
             &middot; <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{- end -}}
     </nav>
